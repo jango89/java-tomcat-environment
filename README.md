@@ -13,7 +13,7 @@ Tomcat to deploy services needs a lot of prerequisites. A couple of the prerequi
 4. No need to set up environment variables or logback in the IDE for RUN/DEBUG.
 
 
-# HOW TO RUN
+# Before Run/Debug
 
 1. Copy `logback_local.xml` to your `conf` folder in tomcat. This will override your default logback.xml and will never have problems related to different APPENDERS.
 
